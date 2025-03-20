@@ -79,7 +79,7 @@ This project is distributed under the MIT License. See `LICENSE` for more detail
 ## Contact
 
 Your Name - Capybara
-Team members:
+### Team members:
 1. Pranav Patil 
 2. Arshia 
 3. Shrija
